@@ -1,0 +1,7 @@
+C:\Users\soole\Downloads\MSSA\MiniProject\Chase\Chase\bin\Debug\Chase.exe.config
+C:\Users\soole\Downloads\MSSA\MiniProject\Chase\Chase\bin\Debug\Chase.exe
+C:\Users\soole\Downloads\MSSA\MiniProject\Chase\Chase\bin\Debug\Chase.pdb
+C:\Users\soole\Downloads\MSSA\MiniProject\Chase\Chase\obj\Debug\Chase.csproj.AssemblyReference.cache
+C:\Users\soole\Downloads\MSSA\MiniProject\Chase\Chase\obj\Debug\Chase.csproj.CoreCompileInputs.cache
+C:\Users\soole\Downloads\MSSA\MiniProject\Chase\Chase\obj\Debug\Chase.exe
+C:\Users\soole\Downloads\MSSA\MiniProject\Chase\Chase\obj\Debug\Chase.pdb
