@@ -5,3 +5,7 @@ This repository contains a collection of applications and assignments developed 
 ## /Chase
 
 * **Chase** is a console-based board game written in C# as part of a mid-program project (week 8 out of 17). This simple game demonstrates core programming concepts and problem-solving skills acquired during the program.
+
+## /WinFormsCalculator
+
+*  **WinFormsCalculator** is a simple calculator application created using Windows Forms as part of a week 4 project in the MSSA program. This project demonstrates the application of event-driven programming, user interface design, and basic mathematical operations in a Windows desktop environment.
