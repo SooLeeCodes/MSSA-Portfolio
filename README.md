@@ -8,4 +8,4 @@ This repository contains a collection of applications and assignments developed 
 
 ## /WinFormsCalculator
 
-*  **WinFormsCalculator** is a simple calculator application created using Windows Forms as part of a week 4 project in the MSSA program. This project demonstrates the application of event-driven programming, user interface design, and basic mathematical operations in a Windows desktop environment.
+*  **WinFormsCalculator** is a simple calculator application created using Windows Forms (week 4 out of 17). This project demonstrates the application of event-driven programming, user interface design, and basic mathematical operations in a Windows desktop environment.
