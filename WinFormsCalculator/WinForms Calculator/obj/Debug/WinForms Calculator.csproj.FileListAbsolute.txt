@@ -1,0 +1,10 @@
+C:\Users\soole\Downloads\MSSA\WEEK 4\WinForms Calculator\WinForms Calculator\bin\Debug\WinForms Calculator.exe.config
+C:\Users\soole\Downloads\MSSA\WEEK 4\WinForms Calculator\WinForms Calculator\bin\Debug\WinForms Calculator.exe
+C:\Users\soole\Downloads\MSSA\WEEK 4\WinForms Calculator\WinForms Calculator\bin\Debug\WinForms Calculator.pdb
+C:\Users\soole\Downloads\MSSA\WEEK 4\WinForms Calculator\WinForms Calculator\obj\Debug\WinForms Calculator.csproj.AssemblyReference.cache
+C:\Users\soole\Downloads\MSSA\WEEK 4\WinForms Calculator\WinForms Calculator\obj\Debug\WinForms_Calculator.Form1.resources
+C:\Users\soole\Downloads\MSSA\WEEK 4\WinForms Calculator\WinForms Calculator\obj\Debug\WinForms_Calculator.Properties.Resources.resources
+C:\Users\soole\Downloads\MSSA\WEEK 4\WinForms Calculator\WinForms Calculator\obj\Debug\WinForms Calculator.csproj.GenerateResource.cache
+C:\Users\soole\Downloads\MSSA\WEEK 4\WinForms Calculator\WinForms Calculator\obj\Debug\WinForms Calculator.csproj.CoreCompileInputs.cache
+C:\Users\soole\Downloads\MSSA\WEEK 4\WinForms Calculator\WinForms Calculator\obj\Debug\WinForms Calculator.exe
+C:\Users\soole\Downloads\MSSA\WEEK 4\WinForms Calculator\WinForms Calculator\obj\Debug\WinForms Calculator.pdb
